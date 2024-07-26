@@ -24,7 +24,7 @@ let lastName = "Urena";
 let age;
 
 // 4. Print out the `firstName`, `lastName`, and `age` variables. What
-//    do you expect them to be when they get printed? Esmeralda\n Urena\n undefined
+//    do you expect them to be when they get printed? Esmeralda\n Urena\n undefined test passed <3
 
 // Your code here 
 
@@ -39,7 +39,7 @@ console.log(age);
 age = 25;
 
 // 6. Print out the `firstName`, `lastName`, and `age` variables. What
-//    do you expect them to be when they get printed? Esmeralda\n Urena\n 25
+//    do you expect them to be when they get printed? Esmeralda\n Urena\n 25 test passed <3
 
 // Your code here 
 

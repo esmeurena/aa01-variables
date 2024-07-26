@@ -10,7 +10,7 @@ let noun = "rainbow";
 
 let addLib = `I shall ${verb} to the ${adjective} ${noun}?`;
 
-console.log(addLib); // => "I shall swim to the sparkly rainbow?"
+console.log(addLib); // => "I shall swim to the sparkly rainbow?" test passed <3
 
 verb = "RUN";
 adjective = "FANCY";
@@ -18,4 +18,4 @@ noun = "ParK";
 
 addLib = `I shall ${verb} to the ${adjective} ${noun}?`;
 
-console.log(addLib); // => "I shall RUN to the FANCY ParK?"
+console.log(addLib); // => "I shall RUN to the FANCY ParK?" test passed <3
